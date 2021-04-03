@@ -12,6 +12,7 @@ This document serves as a reminder of tools, processes and other information tha
 ## API Endpoints
  
    * [JSON Placeholder](https://jsonplaceholder.typicode.com/) a set of endpoints that respond with specific JSON data.
+   * [Firebase](https://firebase.google.com/) is a database as a service that allows you to quickly create and use a DB that you can dev against and/or take into produciton. Can be useful when you want to move fast and not yet manage your own DB etc.
 
 ## Docker
 
